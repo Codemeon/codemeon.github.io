@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Hydra Template
+title: CodeMeon
 url: "https://www.codemeon.com"
 baseurl:
 google_analytics_key:
@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
+description: CodeMeon Company website.
 author:
   name: Mathieu Poliquin
   email: mathieu.poliquin@codemeon.com
