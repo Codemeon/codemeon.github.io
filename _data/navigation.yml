@@ -10,7 +10,7 @@
   link: /contact/
   new_window: false
   highlight: false
-- name: Sign Up
-  link: /
+- name: Merch
+  link: https://teespring.com/stores/codemeon?aid=marketplace
   new_window: true
-  highlight: true
+  highlight: false
