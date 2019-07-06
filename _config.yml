@@ -16,9 +16,9 @@ author:
   email: mathieu.poliquin@codemeon.com
   twitter: Codemeon
 social:
-  name: Hydra Template
+  name: CodeMeon
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
+    - https://github.com/Codemeon
 
 # -----
 # Build

@@ -24,7 +24,8 @@
     link: https://www.youtube.com/channel/UCdr488BoHF0lRTBnk7lTNeQ
     social_icon: YouTube
     new_window: true
-  - name: RSS
-    link: /feed.xml
-    social_icon: RSS
-    new_window: false
+  - name: Instagram
+    link: https://www.instagram.com/Codemeon
+    social_icon: Instagram
+    new_window: true
+
