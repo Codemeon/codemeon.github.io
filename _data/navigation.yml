@@ -1,10 +1,6 @@
-- name: Pricing
-  link: /pricing/
-  new_window: false
-  highlight: false
 - name: Blog
-  link: /blog/
-  new_window: false
+  link: https://blog.codemeon.com
+  new_window: true
   highlight: false
 - name: About
   link: /about/
@@ -13,10 +9,6 @@
 - name: Contact
   link: /contact/
   new_window: false
-  highlight: false
-- name: Login
-  link: /
-  new_window: true
   highlight: false
 - name: Sign Up
   link: /
