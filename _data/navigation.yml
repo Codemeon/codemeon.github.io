@@ -1,5 +1,5 @@
-- name: Blog
-  link: https://blog.codemeon.com
+- name: Dev Log
+  link: https://devlog.codemeon.com
   new_window: true
   highlight: false
 - name: About
