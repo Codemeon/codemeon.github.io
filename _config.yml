@@ -1,1 +1,13 @@
 theme: jekyll-theme-midnight
+
+title: CodeMeon AI ARCADE
+email: mathieu.poliquin@gmail.com
+description: AI Battle Royale
+url: https://www.codemeon.com
+google_analytics: UA-136781191-1
+
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
