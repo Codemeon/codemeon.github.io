@@ -21,10 +21,3 @@ It's targeted for Windows currently. iOS, MacOS and Linux will come once the PC 
 
 
 
-<center>
-        <a href="https://www.reddit.com/r/aiarcade"><img src="/assets/icons/reddit.png"></a>
-        <a href="https://twitter.com/CodeMeon"><img src="/assets/icons/twitter.png"></a>
-        <a href="https://www.youtube.com/channel/UCdr488BoHF0lRTBnk7lTNeQ"><img src="/assets/icons/youtube.png"></a>
-        <a href="https://www.instagram.com/codemeon/"><img src="/assets/icons/instagram.png"></a>
-
-</center>
