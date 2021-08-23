@@ -20,6 +20,3 @@ It's targeted for Windows currently. iOS, MacOS and Linux will come once the PC 
 
 
 
-### Contact
-If you have any questions/suggestions please contact me at: **mathieu.poliquin@gmail.com**
-Also if you are a teacher I would love to hear feature requests and needs you have in terms of video games for Education
