@@ -5,7 +5,7 @@ email: mathieu.poliquin@gmail.com
 description: AI Battle Royale
 url: https://www.codemeon.com
 google_analytics: UA-136781191-1
-
+show_downloads: false
 
 plugins:
   - jekyll-feed
