@@ -19,3 +19,9 @@ It's targeted for Windows currently. iOS, MacOS and Linux will come once the PC 
 <iframe src="https://store.steampowered.com/widget/1059010/" frameborder="0" width="646" height="190"></iframe>
 
 
+
+
+<center>
+        <a href="{{site.url}}"><img src="/assets/icons/reddit.png"></a>
+
+</center>
