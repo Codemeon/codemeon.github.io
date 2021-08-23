@@ -1,13 +1,10 @@
 ---
 layout: default
+tags: [Machine Learning, Utility AI, coding, Battle Royale, Python, NLP]
 ---
 
 
-Add AIA to your wish list!
-<iframe src="https://store.steampowered.com/widget/1059010/" frameborder="0" width="646" height="190"></iframe>
-
-
-AI ARCADE is a multiplayer 2D Battle Royale strategy game where you learn how to build your own AI.
+AI ARCADE is an upcoming multiplayer 2D Battle Royale strategy game where you learn how to build your own AI.
 Play as a programmer in the space military R&D division called AI ARCADE (AIA).
 Located in space towers, the AIA is used to research, developed and test robots used for undercover missions.
 
@@ -17,3 +14,8 @@ Features:
 * Automate learning using 'Machine Learning'
 * Test out your robot in multiplayer Battle Royale
 * Compete to rank the highest in leaderboards
+
+Add AIA to your wish list!
+<iframe src="https://store.steampowered.com/widget/1059010/" frameborder="0" width="646" height="190"></iframe>
+
+
