@@ -3,6 +3,7 @@ layout: default
 tags: [Machine Learning, Utility AI, coding, Battle Royale, Python, NLP]
 ---
 
+![Intro Screen](assets/intro_screen.png)
 
 AI ARCADE is an upcoming multiplayer 2D Battle Royale game where you learn how to build your own AI.
 Play as a programmer in the space military R&D division called AI ARCADE (AIA).
