@@ -13,3 +13,4 @@ If you have any questions/suggestions please contact me at: <b>mathieu.poliquin@
 <br>
 *   [My Linkedin](https://www.linkedin.com/public-profile/in/mathieupoliquin)
 *   [My Youtube Channel](https://www.youtube.com/c/mathieupoliquin)
+*   [My Blog videogames.ai](https://www.videogames.ai/)
