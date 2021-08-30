@@ -1,4 +1,7 @@
-
+---
+layout: default
+tags: [Mathieu Poliquin]
+---
 
 
 <img style="float: right;" src="/assets/about/matpoliquin.jpg">
