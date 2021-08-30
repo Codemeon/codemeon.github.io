@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "AI ARCADE Steam store page is up"
 date:   2021-08-30 00:00:00 +0800
 tags: [AI ARCADE, Steam Store]
